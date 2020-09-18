@@ -1,3 +1,7 @@
+2020.09.18
+improved:
+ - rewrite main.py.
+
 2020.09.09
 fixed:
  - incorrect logs file name.
